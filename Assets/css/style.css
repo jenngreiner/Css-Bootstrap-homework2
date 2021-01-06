@@ -1,0 +1,33 @@
+body {
+    background-image: url(../../../../../../Desktop/img/background2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    margin-top: 10px;
+}
+.img-thumbnail {
+    float: left;
+    margin: 0 20px 0 0;
+    }
+.card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.portfolio-img {
+    margin-bottom: 20px;
+    position: relative;
+    
+}
+
+.social {
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+}
