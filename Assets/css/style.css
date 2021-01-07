@@ -8,7 +8,9 @@ header {
     margin-top: 10px;
     
 }
-
+.navbar {
+    display: block;
+}
 .img-thumbnail {
     float: left;
     margin: 0 20px 0 0;
