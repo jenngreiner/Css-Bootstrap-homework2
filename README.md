@@ -4,17 +4,15 @@
 * [User Story](#user-story)
 * [Description](#description)
 
-[Jenn Greiner Reactive Portfolio](https://jenngreiner.github.io/Css-Bootstrap-homework2/)
+[Jenn Greiner Responsive Portfolio](https://jenngreiner.github.io/Css-Bootstrap-homework2/)
+![Responsive Portfolio on Mobile](url)
 
 
 ## User Story
 As a new web developer, I need a web application that allows prospective employers and clients to view my work and contact me on a variety of device-types.
 
 ## Description 
-
-
-
-
+The code allows users to view the web application on any device, mobile or desktop. Images and content are responsive and visually change based ont the device type used. 
 
 
 

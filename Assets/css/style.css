@@ -1,5 +1,5 @@
 body {
-    background-image: url(../Images/background2.jpg);
+    background-image: url(../Images/background3.jpg);
     background-color: #92a8d1;
     background-size: cover;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -19,6 +19,7 @@ header {
 .card {
     margin-top: 20px;
     margin-bottom: 20px;
+    opacity: 95%;
 }
 
 .link {
