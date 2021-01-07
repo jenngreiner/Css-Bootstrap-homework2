@@ -1,4 +1,29 @@
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+# 02 CSS and Bootstrap Homework: Responsive Portfolio
+
+### Table of Contents:
+* [User Story](#user-story)
+* [Description](#description)
+
+[Jenn Greiner Reactive Portfolio](https://jenngreiner.github.io/Css-Bootstrap-homework2/)
+
+
+## User Story
+As a new web developer, I need a web application that allows prospective employers and clients to view my work and contact me on a variety of device-types.
+
+## Description 
+
+
+
+
+
+
+
+<p align="center">
+  <img alt="Reactive Portfolio on mobile device" src="./Assets/Images/">
+</p>
+
+
+# Unit 
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
 
