@@ -8,6 +8,9 @@ header {
     margin-top: 10px;
     
 }
+.bg-light {
+    background-color: #92a8d1;
+}
 .img-thumbnail {
     float: left;
     margin: 0 20px 0 0;
@@ -18,9 +21,11 @@ header {
     margin-bottom: 20px;
 }
 
+.link {
+    color: #92a8d1;
+}
 .portfolio-img {
     margin-bottom: 20px;
-    position: relative;
 }
 
 .footer {
@@ -42,4 +47,9 @@ header {
     font-size: 10px;
     color:white;
     text-align: center;
+}
+
+.active {
+    font-weight: 600;
+    color: #231520;
 }
