@@ -6,7 +6,7 @@
 
 [Jenn Greiner Responsive Portfolio](https://jenngreiner.github.io/Css-Bootstrap-homework2/)
 
-![Responsive Portfolio on Mobile](./Assets/Images/portfolio-mobile.png)
+![Responsive Portfolio on Mobile](./Assets/Images/portfolio-mobile.PNG)
 
 
 ## User Story
