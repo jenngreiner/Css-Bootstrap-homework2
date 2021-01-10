@@ -13,7 +13,8 @@
 As a new web developer, I need a web application that allows prospective employers and clients to view my work and contact me on a variety of device-types.
 
 ## Description 
-This project is my current working portfolio. Created using BootStrap CSS Framework to achieve a responsive, mobile-first design that allows users to view the web application on any device, mobile or desktop, and Images and content visually change based on the device type used. 
+This project is my current working portfolio. To achieve a responsive, mobile-first design that allows users to view the web application on any device, mobile or desktop, I used BootStrap CSS grid formatting. This allows the navibar, images, and page contents to visually change depending on the width of the browser window. 
+
 
 ### Usage
 
