@@ -19,14 +19,11 @@ header {
 .card {
     margin-top: 20px;
     margin-bottom: 20px;
-    opacity: 95%;
+    /* opacity: 95%; */
 }
 
 .link {
     color: #92a8d1;
-}
-.portfolio-img {
-    margin-bottom: 20px;
 }
 
 .footer {
@@ -48,4 +45,8 @@ header {
 .active {
     font-weight: 600;
     color: #231520;
+}
+.portfolio-img {
+    margin-bottom: 20px;
+    opacity: 100%;
 }
