@@ -21,7 +21,10 @@ header {
 .link {
     color: #92a8d1;
 }
-
+.card-body {
+    background-color: #231520;
+    /* position:absolute; */
+}
 .footer {
     margin-top: auto;
     background-color: #EDCA97!important;
@@ -50,6 +53,7 @@ header {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 30px;
 }
 
 #intro-header {
